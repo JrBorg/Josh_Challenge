@@ -1,5 +1,6 @@
 # Josh_Challenge
-Credit Card Validator
+*Credit Card Validator*
+
 This script is designed to validate credit card numbers according to a set of criteria. The following functions are included:
 
 validate_credit_card_number
